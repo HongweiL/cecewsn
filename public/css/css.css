@@ -1,0 +1,19 @@
+.form-sec{width:400px;
+   background:#ccc; padding:15px;
+    background: #f8f9fa;padding: 15px;box-shadow: 0 0 4px #ccc;}
+
+    .form-sec2{width:400px;
+       background:#ccc; padding:15px;
+        background: #f8f9fa;padding: 15px;box-shadow: 0 0 4px #ccc;}
+
+.placeholder{
+width: 1000px;
+height: 1000px;
+
+}
+.container{float:left ;
+    width:100px;
+  margin-left: 100px;}
+
+.container2{float:right ;
+width:400px;}
