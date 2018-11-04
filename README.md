@@ -1,7 +1,7 @@
 #Introduction
 DECO3801 project
 
-#####Authors:
+Authors:
 Hongwei Li
 Jingwei Wang
 Kaite Zhu
