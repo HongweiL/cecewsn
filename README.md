@@ -1,6 +1,14 @@
 #Introduction
 DECO3801 project
 
+#####Authors:
+Hongwei Li
+Jingwei Wang
+Kaite Zhu
+Qi Shao
+Youwen Mao
+Yuchi Zhang
+
 CECEWSN is web based application that allows scientific researchers especially environmental chemists to upload HRMS data to improve the speed of calculation on state-of-the art algorithms; archiving and storage; and collaboration with other environmental chemists. More importantly, it will also be used as a platform for interpretation and visualisation of chemical statistics on different meta-data. The system aims to benefit general environmental monitoring and discovery of Chemicals of Emerging Concern.
 
 The product development cycle from Team Anonymous, which consists of two major components: proposal and build. During the whole period of the product development cycle, Team Anonymous collaborated with clients to design and build a functional web
